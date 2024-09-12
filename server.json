@@ -1,0 +1,24 @@
+{
+  "products": [
+    {
+      "id": "1",
+      "name": "Mouse",
+      "price": 158
+    },
+    {
+      "id": "2",
+      "name": "Teclado",
+      "price": 100
+    },
+    {
+      "id": "3",
+      "name": "Fone",
+      "price": 180
+    },
+    {
+      "id": "1726091966346",
+      "name": "s",
+      "price": "12"
+    }
+  ]
+}
